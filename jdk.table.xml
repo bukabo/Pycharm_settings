@@ -1,21 +1,21 @@
 <application>
   <component name="ProjectJdkTable">
     <jdk version="2">
-      <name value="Python 3.7 (py)" />
+      <name value="Python 3.8 (PRG1)" />
       <type value="Python SDK" />
-      <version value="Python 3.7.0" />
-      <homePath value="D:\py\venv\Scripts\python.exe" />
+      <version value="Python 3.7.1" />
+      <homePath value="C:\bufer\AD\PY\PRG1\venv\Scripts\python.exe" />
       <roots>
         <classPath>
           <root type="composite">
-            <root url="file://C:/Python37/DLLs" type="simple" />
             <root url="file://C:/Python37/Lib" type="simple" />
-            <root url="file://C:/Python37" type="simple" />
-            <root url="file://D:/py/venv" type="simple" />
-            <root url="file://D:/py/venv/Lib/site-packages" type="simple" />
-            <root url="jar://D:/py/venv/Lib/site-packages/setuptools-39.1.0-py3.7.egg!/" type="simple" />
-            <root url="file://D:/py/venv/Lib/site-packages/pip-10.0.1-py3.7.egg" type="simple" />
-            <root url="file://$USER_HOME$/.PyCharmCE2019.3/system/python_stubs/77371666" type="simple" />
+            <root url="file://C:/Python37/DLLs" type="simple" />
+            <root url="file://C:/bufer/AD/PY/PRG1/venv" type="simple" />
+            <root url="file://C:/bufer/AD/PY/PRG1/venv/Lib/site-packages" type="simple" />
+            <root url="file://C:/bufer/AD/PY/PRG1/venv/Lib/site-packages/win32" type="simple" />
+            <root url="file://C:/bufer/AD/PY/PRG1/venv/Lib/site-packages/win32/lib" type="simple" />
+            <root url="file://C:/bufer/AD/PY/PRG1/venv/Lib/site-packages/pythonwin" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.3/system/python_stubs/1260899389" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
@@ -27,42 +27,13 @@
           <root type="composite" />
         </sourcePath>
       </roots>
-      <additional ASSOCIATED_PROJECT_PATH="D:/py" />
+      <additional ASSOCIATED_PROJECT_PATH="C:/bufer/AD/PY/PRG1" />
     </jdk>
     <jdk version="2">
-      <name value="Python 3.7 (vlc)" />
+      <name value="Python 3.7" />
       <type value="Python SDK" />
-      <version value="Python 3.7.0" />
-      <homePath value="D:\py\vlc\venv\Scripts\python.exe" />
-      <roots>
-        <classPath>
-          <root type="composite">
-            <root url="file://C:/Python37/DLLs" type="simple" />
-            <root url="file://C:/Python37/Lib" type="simple" />
-            <root url="file://C:/Python37" type="simple" />
-            <root url="file://D:/py/vlc/venv" type="simple" />
-            <root url="file://D:/py/vlc/venv/Lib/site-packages" type="simple" />
-            <root url="jar://D:/py/vlc/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
-            <root url="file://D:/py/vlc/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
-            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2020.3/python_stubs/631215088" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
-          </root>
-        </classPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional ASSOCIATED_PROJECT_PATH="D:/py/vlc" />
-    </jdk>
-    <jdk version="2">
-      <name value="Python 3.7 (CheckFares)" />
-      <type value="Python SDK" />
-      <homePath value="G:\WORK-maindev\PY\CheckFares\venv\Scripts\python.exe" />
+      <version value="Python 3.7.5" />
+      <homePath value="C:\Python37\python.exe" />
       <roots>
         <classPath>
           <root type="composite">
@@ -70,9 +41,11 @@
             <root url="file://C:/Python37/Lib" type="simple" />
             <root url="file://C:/Python37" type="simple" />
             <root url="file://C:/Python37/Lib/site-packages" type="simple" />
-            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2020.3/python_stubs/-1270242688" type="simple" />
+            <root url="file://C:/Python37/Lib/site-packages/win32" type="simple" />
+            <root url="file://C:/Python37/Lib/site-packages/win32/lib" type="simple" />
+            <root url="file://C:/Python37/Lib/site-packages/pythonwin" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.3/system/python_stubs/-1055577769" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
@@ -83,24 +56,24 @@
           <root type="composite" />
         </sourcePath>
       </roots>
-      <additional ASSOCIATED_PROJECT_PATH="G:/WORK-maindev/PY/CheckFares" />
+      <additional />
     </jdk>
     <jdk version="2">
-      <name value="Python 3.7 (ML_test1)" />
+      <name value="Python 3.7 (CHECK_SALE)" />
       <type value="Python SDK" />
-      <version value="Python 3.7.0" />
-      <homePath value="D:\py\ML_test1\venv\Scripts\python.exe" />
+      <version value="Python 3.7.5" />
+      <homePath value="C:\bufer\AD\PY\CHECK_SALE\venv\Scripts\python.exe" />
       <roots>
         <classPath>
           <root type="composite">
             <root url="file://C:/Python37/DLLs" type="simple" />
             <root url="file://C:/Python37/Lib" type="simple" />
             <root url="file://C:/Python37" type="simple" />
-            <root url="file://D:/py/ML_test1/venv" type="simple" />
-            <root url="file://D:/py/ML_test1/venv/Lib/site-packages" type="simple" />
-            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2020.3/python_stubs/1489246524" type="simple" />
+            <root url="file://C:/bufer/AD/PY/CHECK_SALE/venv" type="simple" />
+            <root url="file://C:/bufer/AD/PY/CHECK_SALE/venv/Lib/site-packages" type="simple" />
+            <root url="jar://C:/bufer/AD/PY/CHECK_SALE/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.3/system/python_stubs/-728157073" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
@@ -111,24 +84,25 @@
           <root type="composite" />
         </sourcePath>
       </roots>
-      <additional ASSOCIATED_PROJECT_PATH="D:/py/ML_test1" />
+      <additional ASSOCIATED_PROJECT_PATH="C:/bufer/AD/PY/CHECK_SALE" />
     </jdk>
     <jdk version="2">
-      <name value="Python 3.7 (Comppetitor_Annalysis)" />
+      <name value="Python 3.7 (bot_pulling)" />
       <type value="Python SDK" />
-      <version value="Python 3.7.0" />
-      <homePath value="D:\py\Comppetitor_Annalysis\venv\Scripts\python.exe" />
+      <version value="Python 3.7.5" />
+      <homePath value="C:\bufer\AD\PY\bot_pulling\venv\Scripts\python.exe" />
       <roots>
         <classPath>
           <root type="composite">
             <root url="file://C:/Python37/DLLs" type="simple" />
             <root url="file://C:/Python37/Lib" type="simple" />
             <root url="file://C:/Python37" type="simple" />
-            <root url="file://D:/py/Comppetitor_Annalysis/venv" type="simple" />
-            <root url="file://D:/py/Comppetitor_Annalysis/venv/Lib/site-packages" type="simple" />
-            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2020.3/python_stubs/-2103311086" type="simple" />
+            <root url="file://C:/bufer/AD/PY/bot_pulling/venv" type="simple" />
+            <root url="file://C:/bufer/AD/PY/bot_pulling/venv/Lib/site-packages" type="simple" />
+            <root url="jar://C:/bufer/AD/PY/bot_pulling/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://C:/bufer/AD/PY/bot_pulling/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.3/system/python_stubs/-584740204" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3.7" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
@@ -139,7 +113,848 @@
           <root type="composite" />
         </sourcePath>
       </roots>
-      <additional ASSOCIATED_PROJECT_PATH="D:/py/Comppetitor_Annalysis" />
+      <additional ASSOCIATED_PROJECT_PATH="C:/bufer/AD/PY/bot_pulling" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (CheckFares)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.5" />
+      <homePath value="C:\bufer\AD\PY\CheckFares\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Python37/DLLs" type="simple" />
+            <root url="file://C:/Python37/Lib" type="simple" />
+            <root url="file://C:/Python37" type="simple" />
+            <root url="file://C:/bufer/AD/PY/CheckFares/venv" type="simple" />
+            <root url="file://C:/bufer/AD/PY/CheckFares/venv/Lib/site-packages" type="simple" />
+            <root url="jar://C:/bufer/AD/PY/CheckFares/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://C:/bufer/AD/PY/CheckFares/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.3/system/python_stubs/1381198894" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/bufer/AD/PY/CheckFares" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (FOR_TEST)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.5" />
+      <homePath value="C:\bufer\AD\PY\FOR_TEST\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Python37/DLLs" type="simple" />
+            <root url="file://C:/Python37/Lib" type="simple" />
+            <root url="file://C:/Python37" type="simple" />
+            <root url="file://C:/bufer/AD/PY/FOR_TEST/venv" type="simple" />
+            <root url="file://C:/bufer/AD/PY/FOR_TEST/venv/Lib/site-packages" type="simple" />
+            <root url="jar://C:/bufer/AD/PY/FOR_TEST/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://C:/bufer/AD/PY/FOR_TEST/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.3/system/python_stubs/-880473127" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/bufer/AD/PY/FOR_TEST" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (test main)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.5" />
+      <homePath value="C:\bufer\AD\PY\test main\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Python37/DLLs" type="simple" />
+            <root url="file://C:/Python37/Lib" type="simple" />
+            <root url="file://C:/Python37" type="simple" />
+            <root url="file://C:/bufer/AD/PY/test main/venv" type="simple" />
+            <root url="file://C:/bufer/AD/PY/test main/venv/Lib/site-packages" type="simple" />
+            <root url="jar://C:/bufer/AD/PY/test main/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://C:/bufer/AD/PY/test main/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.3/system/python_stubs/-646817834" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/bufer/AD/PY/test main" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (PreDpt)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.5" />
+      <homePath value="C:\GitRepository\PreDpt\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Python37/DLLs" type="simple" />
+            <root url="file://C:/Python37/Lib" type="simple" />
+            <root url="file://C:/Python37" type="simple" />
+            <root url="file://C:/GitRepository/PreDpt/venv" type="simple" />
+            <root url="file://C:/GitRepository/PreDpt/venv/Lib/site-packages" type="simple" />
+            <root url="jar://C:/GitRepository/PreDpt/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://C:/GitRepository/PreDpt/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://C:/GitRepository/PreDpt/venv/Lib/site-packages/win32" type="simple" />
+            <root url="file://C:/GitRepository/PreDpt/venv/Lib/site-packages/win32/lib" type="simple" />
+            <root url="file://C:/GitRepository/PreDpt/venv/Lib/site-packages/pythonwin" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.3/system/python_stubs/1004244032" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/GitRepository/PreDpt" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.8 (XMLtoDF)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.8" />
+      <homePath value="C:\bufer\AD\PY\XMLtoDF\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Python38-32/DLLs" type="simple" />
+            <root url="file://C:/Python38-32/Lib" type="simple" />
+            <root url="file://C:/Python38-32" type="simple" />
+            <root url="file://C:/bufer/AD/PY/XMLtoDF/venv" type="simple" />
+            <root url="file://C:/bufer/AD/PY/XMLtoDF/venv/Lib/site-packages" type="simple" />
+            <root url="jar://C:/bufer/AD/PY/XMLtoDF/venv/Lib/site-packages/setuptools-40.8.0-py3.8.egg!/" type="simple" />
+            <root url="file://C:/bufer/AD/PY/XMLtoDF/venv/Lib/site-packages/pip-19.0.3-py3.8.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.3/system/python_stubs/-765993789" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/bufer/AD/PY/XMLtoDF" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (RepOpenedTrains)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.5" />
+      <homePath value="C:\bufer\AD\PY\RepOpenedTrains\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Python37/DLLs" type="simple" />
+            <root url="file://C:/Python37/Lib" type="simple" />
+            <root url="file://C:/Python37" type="simple" />
+            <root url="file://C:/bufer/AD/PY/RepOpenedTrains/venv" type="simple" />
+            <root url="file://C:/bufer/AD/PY/RepOpenedTrains/venv/Lib/site-packages" type="simple" />
+            <root url="jar://C:/bufer/AD/PY/RepOpenedTrains/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://C:/bufer/AD/PY/RepOpenedTrains/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.3/system/python_stubs/1769444448" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/bufer/AD/PY/RepOpenedTrains" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (16_csv)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.5" />
+      <homePath value="C:\bufer\AD\PY\16_csv\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Python37/DLLs" type="simple" />
+            <root url="file://C:/Python37/Lib" type="simple" />
+            <root url="file://C:/Python37" type="simple" />
+            <root url="file://C:/bufer/AD/PY/16_csv/venv" type="simple" />
+            <root url="file://C:/bufer/AD/PY/16_csv/venv/Lib/site-packages" type="simple" />
+            <root url="jar://C:/bufer/AD/PY/16_csv/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://C:/bufer/AD/PY/16_csv/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.3/system/python_stubs/685222557" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/bufer/AD/PY/16_csv" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (UserFare_Defolt_upload)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.5" />
+      <homePath value="C:\GitRepository\UserFare_Defolt_upload\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Python37/DLLs" type="simple" />
+            <root url="file://C:/Python37/Lib" type="simple" />
+            <root url="file://C:/Python37" type="simple" />
+            <root url="file://C:/GitRepository/UserFare_Defolt_upload/venv" type="simple" />
+            <root url="file://C:/GitRepository/UserFare_Defolt_upload/venv/Lib/site-packages" type="simple" />
+            <root url="jar://C:/GitRepository/UserFare_Defolt_upload/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://C:/GitRepository/UserFare_Defolt_upload/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://C:/GitRepository/UserFare_Defolt_upload/venv/Lib/site-packages/win32" type="simple" />
+            <root url="file://C:/GitRepository/UserFare_Defolt_upload/venv/Lib/site-packages/win32/lib" type="simple" />
+            <root url="file://C:/GitRepository/UserFare_Defolt_upload/venv/Lib/site-packages/pythonwin" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.3/system/python_stubs/-1326651133" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/GitRepository/UserFare_Defolt_upload" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (TestGit)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.5" />
+      <homePath value="C:\bufer\AD\PY\TestGit\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Python37/DLLs" type="simple" />
+            <root url="file://C:/Python37/Lib" type="simple" />
+            <root url="file://C:/Python37" type="simple" />
+            <root url="file://C:/bufer/AD/PY/TestGit/venv" type="simple" />
+            <root url="file://C:/bufer/AD/PY/TestGit/venv/Lib/site-packages" type="simple" />
+            <root url="jar://C:/bufer/AD/PY/TestGit/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://C:/bufer/AD/PY/TestGit/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.3/system/python_stubs/-360915505" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/bufer/AD/PY/TestGit" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (TstGt)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.5" />
+      <homePath value="C:\bufer\AD\PY\TstGt\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Python37/DLLs" type="simple" />
+            <root url="file://C:/Python37/Lib" type="simple" />
+            <root url="file://C:/Python37" type="simple" />
+            <root url="file://C:/bufer/AD/PY/TstGt/venv" type="simple" />
+            <root url="file://C:/bufer/AD/PY/TstGt/venv/Lib/site-packages" type="simple" />
+            <root url="jar://C:/bufer/AD/PY/TstGt/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://C:/bufer/AD/PY/TstGt/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.3/system/python_stubs/-1130271919" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/bufer/AD/PY/TstGt" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (120-day_Trains)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.5" />
+      <homePath value="C:\bufer\AD\PY\120-day_Trains\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Python37/DLLs" type="simple" />
+            <root url="file://C:/Python37/Lib" type="simple" />
+            <root url="file://C:/Python37" type="simple" />
+            <root url="file://C:/bufer/AD/PY/120-day_Trains/venv" type="simple" />
+            <root url="file://C:/bufer/AD/PY/120-day_Trains/venv/Lib/site-packages" type="simple" />
+            <root url="jar://C:/bufer/AD/PY/120-day_Trains/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://C:/bufer/AD/PY/120-day_Trains/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.3/system/python_stubs/-1979575139" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/bufer/AD/PY/120-day_Trains" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (FARES)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.5" />
+      <homePath value="C:\GitRepository\FARES\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Python37/DLLs" type="simple" />
+            <root url="file://C:/Python37/Lib" type="simple" />
+            <root url="file://C:/Python37" type="simple" />
+            <root url="file://C:/GitRepository/FARES/venv" type="simple" />
+            <root url="file://C:/GitRepository/FARES/venv/Lib/site-packages" type="simple" />
+            <root url="jar://C:/GitRepository/FARES/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://C:/GitRepository/FARES/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.3/system/python_stubs/655022026" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/GitRepository/FARES" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (WHATSAPP)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.5" />
+      <homePath value="C:\bufer\AD\PY\WHATSAPP\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Python37/DLLs" type="simple" />
+            <root url="file://C:/Python37/Lib" type="simple" />
+            <root url="file://C:/Python37" type="simple" />
+            <root url="file://C:/bufer/AD/PY/WHATSAPP/venv" type="simple" />
+            <root url="file://C:/bufer/AD/PY/WHATSAPP/venv/Lib/site-packages" type="simple" />
+            <root url="jar://C:/bufer/AD/PY/WHATSAPP/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://C:/bufer/AD/PY/WHATSAPP/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.3/system/python_stubs/-2045566717" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/bufer/AD/PY/WHATSAPP" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (UPD_and_UPL)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.1" />
+      <homePath value="C:\bufer\AD\PY\UPD_and_UPL\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Python37/Lib" type="simple" />
+            <root url="file://C:/Python37/DLLs" type="simple" />
+            <root url="file://C:/bufer/AD/PY/UPD_and_UPL/venv" type="simple" />
+            <root url="file://C:/bufer/AD/PY/UPD_and_UPL/venv/Lib/site-packages" type="simple" />
+            <root url="jar://C:/bufer/AD/PY/UPD_and_UPL/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://C:/bufer/AD/PY/UPD_and_UPL/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://C:/bufer/AD/PY/UPD_and_UPL/venv/Lib/site-packages/win32" type="simple" />
+            <root url="file://C:/bufer/AD/PY/UPD_and_UPL/venv/Lib/site-packages/win32/lib" type="simple" />
+            <root url="file://C:/bufer/AD/PY/UPD_and_UPL/venv/Lib/site-packages/pythonwin" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.3/system/python_stubs/1048164610" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/bufer/AD/PY/UPD_and_UPL" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (GTtest)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.5" />
+      <homePath value="C:\bufer\AD\PY\GTtest\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Python37/DLLs" type="simple" />
+            <root url="file://C:/Python37/Lib" type="simple" />
+            <root url="file://C:/Python37" type="simple" />
+            <root url="file://C:/bufer/AD/PY/GTtest/venv" type="simple" />
+            <root url="file://C:/bufer/AD/PY/GTtest/venv/Lib/site-packages" type="simple" />
+            <root url="jar://C:/bufer/AD/PY/GTtest/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://C:/bufer/AD/PY/GTtest/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.3/system/python_stubs/980571056" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/bufer/AD/PY/GTtest" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.8 (DelAuthorization)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.8" />
+      <homePath value="C:\bufer\AD\PY\DelAuthorization\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Python38-32/DLLs" type="simple" />
+            <root url="file://C:/Python38-32/Lib" type="simple" />
+            <root url="file://C:/Python38-32" type="simple" />
+            <root url="file://C:/bufer/AD/PY/DelAuthorization/venv" type="simple" />
+            <root url="file://C:/bufer/AD/PY/DelAuthorization/venv/Lib/site-packages" type="simple" />
+            <root url="jar://C:/bufer/AD/PY/DelAuthorization/venv/Lib/site-packages/setuptools-40.8.0-py3.8.egg!/" type="simple" />
+            <root url="file://C:/bufer/AD/PY/DelAuthorization/venv/Lib/site-packages/pip-19.0.3-py3.8.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.3/system/python_stubs/816782527" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/bufer/AD/PY/DelAuthorization" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (DelAuthorization)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.5" />
+      <homePath value="C:\bufer\AD\PY\DelAuthorization\venv37\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Python37/DLLs" type="simple" />
+            <root url="file://C:/Python37/Lib" type="simple" />
+            <root url="file://C:/Python37" type="simple" />
+            <root url="file://C:/bufer/AD/PY/DelAuthorization/venv37" type="simple" />
+            <root url="file://C:/bufer/AD/PY/DelAuthorization/venv37/Lib/site-packages" type="simple" />
+            <root url="jar://C:/bufer/AD/PY/DelAuthorization/venv37/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://C:/bufer/AD/PY/DelAuthorization/venv37/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://C:/bufer/AD/PY/DelAuthorization/venv37/Lib/site-packages/win32" type="simple" />
+            <root url="file://C:/bufer/AD/PY/DelAuthorization/venv37/Lib/site-packages/win32/lib" type="simple" />
+            <root url="file://C:/bufer/AD/PY/DelAuthorization/venv37/Lib/site-packages/pythonwin" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2021.1/python_stubs/-35715685" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/jwt" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/six" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/mock" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/nmap" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/attrs" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/polib" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/retry" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/enum34" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/orjson" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/xxhash" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/chardet" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/futures" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/tzlocal" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/aiofiles" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/filelock" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/Markdown" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/paramiko" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/pathlib2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/requests" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/waitress" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/Werkzeug" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/freezegun" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/ipaddress" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/pyRFC3339" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/typed-ast" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/cachetools" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/Deprecated" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/frozendict" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/contextvars" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/JACK-Client" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/atomicwrites" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/cryptography" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/click-spinner" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/DateTimeRange" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/pkg_resources" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/python-gflags" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/python-slugify" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/python-dateutil" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/typing-extensions" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/bufer/AD/PY/DelAuthorization" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (ML_get_analitic)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.5" />
+      <homePath value="C:\bufer\AD\PY\ML_get_analitic\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Python37/DLLs" type="simple" />
+            <root url="file://C:/Python37/Lib" type="simple" />
+            <root url="file://C:/Python37" type="simple" />
+            <root url="file://C:/bufer/AD/PY/ML_get_analitic/venv" type="simple" />
+            <root url="file://C:/bufer/AD/PY/ML_get_analitic/venv/Lib/site-packages" type="simple" />
+            <root url="file://C:/bufer/AD/PY/ML_get_analitic/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2021.1/python_stubs/-821124843" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/jwt" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/six" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/mock" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/nmap" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/attrs" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/polib" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/retry" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/enum34" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/orjson" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/xxhash" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/chardet" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/futures" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/tzlocal" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/aiofiles" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/filelock" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/Markdown" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/paramiko" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/pathlib2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/requests" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/waitress" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/Werkzeug" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/freezegun" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/ipaddress" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/pyRFC3339" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/typed-ast" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/cachetools" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/Deprecated" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/frozendict" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/contextvars" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/JACK-Client" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/atomicwrites" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/cryptography" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/click-spinner" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/DateTimeRange" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/pkg_resources" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/python-gflags" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/python-slugify" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/python-dateutil" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/typing-extensions" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/bufer/AD/PY/ML_get_analitic" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (ML_flask)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.5" />
+      <homePath value="C:\bufer\AD\PY\ML_flask\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Python37/DLLs" type="simple" />
+            <root url="file://C:/Python37/Lib" type="simple" />
+            <root url="file://C:/Python37" type="simple" />
+            <root url="file://C:/bufer/AD/PY/ML_flask/venv" type="simple" />
+            <root url="file://C:/bufer/AD/PY/ML_flask/venv/Lib/site-packages" type="simple" />
+            <root url="jar://C:/bufer/AD/PY/ML_flask/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://C:/bufer/AD/PY/ML_flask/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.3/system/python_stubs/1678261700" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/bufer/AD/PY/ML_flask" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.8 (Send90ErrorsRM)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.8" />
+      <homePath value="C:\bufer\AD\PY\Send90ErrorsRM\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Python38-32/DLLs" type="simple" />
+            <root url="file://C:/Python38-32/Lib" type="simple" />
+            <root url="file://C:/Python38-32" type="simple" />
+            <root url="file://C:/bufer/AD/PY/Send90ErrorsRM/venv" type="simple" />
+            <root url="file://C:/bufer/AD/PY/Send90ErrorsRM/venv/Lib/site-packages" type="simple" />
+            <root url="jar://C:/bufer/AD/PY/Send90ErrorsRM/venv/Lib/site-packages/setuptools-40.8.0-py3.8.egg!/" type="simple" />
+            <root url="file://C:/bufer/AD/PY/Send90ErrorsRM/venv/Lib/site-packages/pip-19.0.3-py3.8.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.3/system/python_stubs/713810550" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/bufer/AD/PY/Send90ErrorsRM" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (Send90ErrorsRM)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.5" />
+      <homePath value="C:\bufer\AD\PY\Send90ErrorsRM\venv37\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Python37/DLLs" type="simple" />
+            <root url="file://C:/Python37/Lib" type="simple" />
+            <root url="file://C:/Python37" type="simple" />
+            <root url="file://C:/bufer/AD/PY/Send90ErrorsRM/venv37" type="simple" />
+            <root url="file://C:/bufer/AD/PY/Send90ErrorsRM/venv37/Lib/site-packages" type="simple" />
+            <root url="jar://C:/bufer/AD/PY/Send90ErrorsRM/venv37/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://C:/bufer/AD/PY/Send90ErrorsRM/venv37/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.3/system/python_stubs/-207537774" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/bufer/AD/PY/Send90ErrorsRM" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (SvodToDB)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.5" />
+      <homePath value="C:\bufer\AD\PY\SvodToDB\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Python37/DLLs" type="simple" />
+            <root url="file://C:/Python37/Lib" type="simple" />
+            <root url="file://C:/Python37" type="simple" />
+            <root url="file://C:/bufer/AD/PY/SvodToDB/venv" type="simple" />
+            <root url="file://C:/bufer/AD/PY/SvodToDB/venv/Lib/site-packages" type="simple" />
+            <root url="jar://C:/bufer/AD/PY/SvodToDB/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://C:/bufer/AD/PY/SvodToDB/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.3/system/python_stubs/-944166302" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/bufer/AD/PY/SvodToDB" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.8 (ML_get_analitic)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.8" />
+      <homePath value="C:\bufer\AD\PY\ML_get_analitic\venv38\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Python38-32/DLLs" type="simple" />
+            <root url="file://C:/Python38-32/Lib" type="simple" />
+            <root url="file://C:/Python38-32" type="simple" />
+            <root url="file://C:/bufer/AD/PY/ML_get_analitic/venv38" type="simple" />
+            <root url="file://C:/bufer/AD/PY/ML_get_analitic/venv38/Lib/site-packages" type="simple" />
+            <root url="jar://C:/bufer/AD/PY/ML_get_analitic/venv38/Lib/site-packages/setuptools-40.8.0-py3.8.egg!/" type="simple" />
+            <root url="file://C:/bufer/AD/PY/ML_get_analitic/venv38/Lib/site-packages/pip-19.0.3-py3.8.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.3/system/python_stubs/1779475152" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/bufer/AD/PY/ML_get_analitic" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (CompetitorAnalysis)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.5" />
+      <homePath value="C:\bufer\AD\PY\CompetitorAnalysis\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Python37/DLLs" type="simple" />
+            <root url="file://C:/Python37/Lib" type="simple" />
+            <root url="file://C:/Python37" type="simple" />
+            <root url="file://C:/bufer/AD/PY/CompetitorAnalysis/venv" type="simple" />
+            <root url="file://C:/bufer/AD/PY/CompetitorAnalysis/venv/Lib/site-packages" type="simple" />
+            <root url="jar://C:/bufer/AD/PY/CompetitorAnalysis/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://C:/bufer/AD/PY/CompetitorAnalysis/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2021.1/python_stubs/2107136153" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/jwt" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/six" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/mock" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/nmap" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/attrs" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/polib" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/retry" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/enum34" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/orjson" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/xxhash" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/chardet" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/futures" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/tzlocal" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/aiofiles" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/filelock" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/Markdown" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/paramiko" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/pathlib2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/requests" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/waitress" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/Werkzeug" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/freezegun" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/ipaddress" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/pyRFC3339" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/typed-ast" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/cachetools" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/Deprecated" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/frozendict" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/contextvars" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/JACK-Client" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/atomicwrites" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/cryptography" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/click-spinner" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/DateTimeRange" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/pkg_resources" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/python-gflags" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/python-slugify" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/python-dateutil" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/typing-extensions" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/bufer/AD/PY/CompetitorAnalysis" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (ttt)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.5" />
+      <homePath value="C:\bufer\AD\PY\ttt\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Python37/DLLs" type="simple" />
+            <root url="file://C:/Python37/Lib" type="simple" />
+            <root url="file://C:/Python37" type="simple" />
+            <root url="file://C:/bufer/AD/PY/ttt/venv" type="simple" />
+            <root url="file://C:/bufer/AD/PY/ttt/venv/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.3/system/python_stubs/274100611" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/bufer/AD/PY/ttt" />
     </jdk>
   </component>
 </application>
