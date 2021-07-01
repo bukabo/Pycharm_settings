@@ -1,0 +1,6 @@
+<keymap version="1" name="merc" parent="$default">
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="shift f10" />
+    <keyboard-shortcut first-keystroke="alt x" />
+  </action>
+</keymap>
