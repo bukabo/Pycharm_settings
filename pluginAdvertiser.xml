@@ -22,11 +22,6 @@
                       <FeaturePluginData displayName="Shell Script" pluginName="Shell Script" pluginId="com.jetbrains.sh" bundled="true" />
                     </value>
                   </entry>
-                  <entry key="TailRunConfiguration">
-                    <value>
-                      <FeaturePluginData displayName="Tail" pluginName="Grep Console" pluginId="GrepConsole" />
-                    </value>
-                  </entry>
                   <entry key="Tox">
                     <value>
                       <FeaturePluginData displayName="tox" pluginName="Python Community Edition" pluginId="PythonCore" bundled="true" />
