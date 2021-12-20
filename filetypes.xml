@@ -3,13 +3,14 @@
     <ignoreFiles list="*$py.class;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc" />
     <extensionMap>
       <mapping pattern="Pipfile" type="AUTO_DETECTED" />
-      <mapping ext="ddl" type="OdpsQL" />
-      <mapping ext="odpsql" type="OdpsQL" />
-      <mapping ext="sql" type="OdpsQL" />
-      <mapping ext="q" type="OdpsQL" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="xls" approved="true" type="Native" />
       <removed_mapping ext="xlsx" approved="true" type="Native" />
+      <removed_mapping pattern="Pipfile" approved="true" type="TOML" />
+      <mapping ext="ddl" type="OdpsQL" />
+      <mapping ext="odpsql" type="OdpsQL" />
+      <mapping ext="q" type="OdpsQL" />
+      <mapping ext="sql" type="OdpsQL" />
     </extensionMap>
   </component>
 </application>
