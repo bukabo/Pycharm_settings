@@ -38,9 +38,13 @@
           <option name="url" value="https://github.com/bukabo/ParceKorrespondence.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/pythontoday/voice_assistant.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\BUFER\AD\py" />
+    <option name="cloneParentDir" value="D:\py" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
