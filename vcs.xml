@@ -42,9 +42,13 @@
           <option name="url" value="https://github.com/pythontoday/voice_assistant.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/bukabo/windows_notification.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\py" />
+    <option name="cloneParentDir" value="C:\BUFER\AD" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
