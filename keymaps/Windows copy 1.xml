@@ -3,9 +3,9 @@
     <keyboard-shortcut first-keystroke="alt x" />
   </action>
   <action id="EditorDecreaseFontSize">
-    <keyboard-shortcut first-keystroke="shift open_bracket" />
+    <keyboard-shortcut first-keystroke="shift subtract" />
   </action>
   <action id="EditorIncreaseFontSize">
-    <keyboard-shortcut first-keystroke="shift close_bracket" />
+    <keyboard-shortcut first-keystroke="shift add" />
   </action>
 </keymap>
