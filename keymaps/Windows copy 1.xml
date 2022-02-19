@@ -2,4 +2,10 @@
   <action id="ContextRun">
     <keyboard-shortcut first-keystroke="alt x" />
   </action>
+  <action id="EditorDecreaseFontSize">
+    <keyboard-shortcut first-keystroke="shift open_bracket" />
+  </action>
+  <action id="EditorIncreaseFontSize">
+    <keyboard-shortcut first-keystroke="shift close_bracket" />
+  </action>
 </keymap>
