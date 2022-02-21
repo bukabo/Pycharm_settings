@@ -1,0 +1,14 @@
+<keymap version="1" name="Windows copy 1" parent="$default">
+  <action id="ContextRun">
+    <keyboard-shortcut first-keystroke="alt x" />
+  </action>
+  <action id="EditorDecreaseFontSize">
+    <keyboard-shortcut first-keystroke="shift subtract" />
+  </action>
+  <action id="EditorIncreaseFontSize">
+    <keyboard-shortcut first-keystroke="shift add" />
+  </action>
+  <action id="EditorResetFontSize">
+    <keyboard-shortcut first-keystroke="shift multiply" />
+  </action>
+</keymap>
