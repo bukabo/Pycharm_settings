@@ -58,6 +58,10 @@
           <option name="url" value="https://github.com/ershovio/russian_sentiment_analysis.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/bukabo/ML-get-analitics.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\BUFER\AD\py" />
