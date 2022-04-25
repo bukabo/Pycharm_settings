@@ -70,6 +70,10 @@
           <option name="url" value="https://github.com/bukabo/aiogram_bot_template.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/bukabo/TOISRV.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\py" />
