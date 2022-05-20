@@ -1,0 +1,10 @@
+<application>
+  <component name="ComposeFilesSynchronizedWithServiceView">
+    <option value="file://C:/AD/PY/Redis/docker-compose.yml" />
+  </component>
+  <component name="DockerSettings">
+    <option name="dockerComposePath" value="docker-compose.exe" />
+    <option name="dockerMachinePath" value="" />
+    <option name="dockerPath" value="docker.exe" />
+  </component>
+</application>
