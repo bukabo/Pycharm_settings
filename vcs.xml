@@ -102,6 +102,10 @@
           <option name="url" value="https://github.com/bukabo/AC_exchange_rates.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/bukabo/AC_test.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\py" />
