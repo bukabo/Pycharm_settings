@@ -110,6 +110,10 @@
           <option name="url" value="https://github.com/rongfengliang/clickhouse-docker-compose.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/bukabo/PDF_parce.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\py" />
