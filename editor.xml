@@ -10,6 +10,11 @@
       </map>
     </option>
     <option name="defaultPosition" value="Right" />
+    <option name="disabledCodeVisionProviderIds">
+      <set>
+        <option value="vcs.code.vision" />
+      </set>
+    </option>
   </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="" />
