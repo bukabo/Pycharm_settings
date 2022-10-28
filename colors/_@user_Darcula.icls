@@ -4,11 +4,13 @@
     <property name="created">2022-04-22T22:53:03</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2022.1.0.0</property>
-    <property name="modified">2022-04-23T01:18:29</property>
+    <property name="modified">2022-10-22T12:31:30</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
   <option name="CONSOLE_FONT_NAME" value="JetBrains Mono" />
   <option name="CONSOLE_FONT_SIZE" value="11" />
   <option name="CONSOLE_LIGATURES" value="true" />
-  <option name="CONSOLE_LINE_SPACING" value="1.0" />
 </scheme>
