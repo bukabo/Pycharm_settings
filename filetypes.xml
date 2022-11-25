@@ -4,14 +4,14 @@
     <extensionMap>
       <mapping pattern="Pipfile" type="AUTO_DETECTED" />
       <mapping pattern="TOISRV" type="AUTO_DETECTED" />
+      <mapping pattern=".env.*" type="Env File" />
+      <mapping ext="env" type="Env File" />
       <mapping ext="txt" type="Native" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="Pipfile" approved="true" type="TOML" />
-      <mapping ext="env" type="Env File" />
       <mapping ext="odpsql" type="OdpsQL" />
       <mapping ext="q" type="OdpsQL" />
-      <mapping pattern=".env.*" type="Env File" />
     </extensionMap>
   </component>
 </application>
