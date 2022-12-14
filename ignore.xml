@@ -31,13 +31,7 @@
       <language id="Up" NEW_FILE="true" ENABLE="false" />
     </languages>
     <userTemplates>
-      <template name="Example user template">### Example user template
-
-# IntelliJ project files
-.idea
-*.iml
-out
-gen</template>
+      <template name="py" />
     </userTemplates>
   </component>
 </application>
